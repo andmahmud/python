@@ -1,4 +1,5 @@
 a = 1 
 b = 2
 sum = a + b 
-print("sum" , sum)
+sum2  =  a + sum 
+print("sum" , sum2)
